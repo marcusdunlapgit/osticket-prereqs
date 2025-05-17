@@ -50,7 +50,7 @@ Before starting, ensure you have the following:
 ### 🔹 Step 2: Prepare Installation Files
 
 - Download `osTicket-Installation-Files.zip` to the VM desktop.
-- Extract the contents — the folder should be named: `osTicket-Installation-Files`.
+- Extract the contents if necessary — the folder should be named: `osTicket-Installation-Files`.
 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Step 2 Screenshot"/>
 
