@@ -68,7 +68,7 @@ Before starting, ensure you have the following:
 
 ---
 
-### 🔹 Step 4: Install Required Components (DO NOT INSTALL ALL AT ONCE. PLEASE FOLLOW ALONG)
+### 🔹 Step 4: Install Required Components (PLEASE FOLLOW ALONG)
 
 - Install **PHP Manager for IIS**
 - Install **IIS Rewrite Module**
