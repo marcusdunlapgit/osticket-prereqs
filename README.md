@@ -31,7 +31,7 @@ Before starting, ensure you have the following:
 - Azure Subscription
 - Windows 10 Virtual Machine with at least 4 vCPUs
 - RDP access to the VM
-- [osTicket-Installation-Files.zip](#) (include your GitHub raw link here)
+- [osTicket-Installation-Files.zip](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) (include your GitHub raw link here)
 - Internet access inside the Virtual Machine
 
 ---
